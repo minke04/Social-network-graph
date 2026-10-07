@@ -1,0 +1,27 @@
+10
+17
+Aleksa Anastasija Damjan Dragana Ilija Jovana Marko Pavle Srdjan Una
+Aleksa Marko 0.77  
+Aleksa Srdjan 0.21  
+Anastasija Ilija 0.53  
+Anastasija Jovana 0.65  
+Damjan Pavle 0.44  
+Damjan Una 0.55  
+Dragana Marko 0.4  
+Ilija Anastasija 0.42  
+Jovana Anastasija 0.58  
+Marko Aleksa 0.5  
+Marko Dragana 0.66  
+Pavle Damjan 0.25  
+Pavle Marko 0.7  
+Srdjan Damjan 0.5  
+Srdjan Una 0.27  
+Una Anastasija 0.33  
+Una Damjan 0.64
+
+
+
+
+
+
+
